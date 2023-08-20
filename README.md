@@ -1,11 +1,11 @@
 # FUP - Fundamentos De Programação
-Trabalho final da disciplina
-Engenharia de Computação - 1º Semestre
-Última modificação em 08 de jul de 2022
+Trabalho final da disciplina<br />
+Engenharia de Computação - 1º Semestre<br />
+Última modificação em 08 de jul de 2022<br />
 
-Equipe:
-William Marreiro
-Pablo Vinicios
-Gabriel Dias 
-
+Equipe:<br />
+- William Marreiro<br />
+- Pablo Vinicios<br />
+- Gabriel Dias <br />
+<br />
 Professor: Criston
